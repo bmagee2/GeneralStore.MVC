@@ -9,7 +9,7 @@ namespace GeneralStore.MVC.Controllers
 {
     public class ProductController : Controller
     {
-
+        // test
         // Add the application DB Context (link to the database)
         private ApplicationDbContext _db = new ApplicationDbContext();
 
